@@ -13,7 +13,3 @@ En este blog compartiremos las aventuras de nuestra familia en el proceso de apr
 El primer dia ha iniciado y los niños comenzaron a ver el canal once .
 
 Mamá se encuentra en constante comunicacion con sus compañeros, autoridades y padres de familia de su grupo. Es un caos las indicaciones no son claras.
-
-
-
-

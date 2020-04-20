@@ -8,7 +8,7 @@ url: "https://aprendeencasaya.com" # the base hostname & protocol for your site,
 twitter_username: aprendeencasaya
 google_analytics: UA-130293099-5
 theme: minima
-disqus:
-  shortname: http-aprendeencasaya-com
+# disqus:
+#   shortname: http-aprendeencasaya-com
 plugins:
   - jekyll-feed

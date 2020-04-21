@@ -12,3 +12,6 @@ theme: minima
 #   shortname: http-aprendeencasaya-com
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed

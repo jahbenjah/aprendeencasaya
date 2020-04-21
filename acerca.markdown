@@ -1,22 +1,20 @@
 ---
 layout: page
 title: Acerca
-permalink: /about/
+permalink: /acerca/
 ---
 
-El equipo de aprendeencasaya.com esta formado por una familia mexicana 
+El equipo de **aprendeencasaya.com** esta formado por una familia mexicana 
 
 # Los padres
 
 **Mamá** es una maestra de educación primaria. Actualmente da clases un grupo de cuarto grado. Batalla constantemente con su doble papel de maestra y madre.
 
-**Papá**: trabaja como programador y esta haciendo _home office_. Principalmente ayuda a las tareas de matematicas.
-
+**Papá**: trabaja como programador y esta haciendo _home office_. Principalmente ayuda a las tareas de matemáticas.
 
 # Los hijos
 
 **La hermana mayor** Actualmente cursa el tercer grado de primaria. 
-
 
 **El hermano de enmedio** Actualmente cursa el tercer grado de educacion prescolar.
 

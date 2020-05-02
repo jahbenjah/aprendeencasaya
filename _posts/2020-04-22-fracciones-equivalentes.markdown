@@ -30,4 +30,4 @@ De esta forma podemos decir que 1/2 es equivalente a 3/6
 
 Encuentra fracciones equivalentes usando multiplicaciones llenando los espacios en blanco
 
-1. $$\frac{1}{4} * \frac{ }{3} = \mbox{ \frac{3}{3} } $$
+1. $$\frac{1}{4} \times \frac{ }{3} = \frac{3}{}$$

@@ -11,7 +11,7 @@ Una fracción es una parte de la unidad.
 $$\frac{numerador}{denominador}$$
 
 
-**Fracción propia**: Es una fracción donde el numerador es menor que el denominador
+**Fracción propia**: Es una fracción donde el numerador es menor que el denominador.
 
 $$\frac{2}{3}$$  , $\frac{3}{4}$$
 

@@ -12,7 +12,9 @@ description: Aprende a  calcular el factorial de un número entero positivo.
 
 # Primero de primaria
 
-
+<div class="video-responsive">
+<iframe  src="https://www.youtube.com/embed/Gj5YM9TlXN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 # Segundo de primaria
 

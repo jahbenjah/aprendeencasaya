@@ -1,35 +1,27 @@
 ---
 layout: post
 title:  "Aprende en casa 2 horarios Primaria"
-date:   2020-05-02 12:00:01 +0000
+date:   2020-08-24 00:00:01 +0000
 categories: aprende-en-casa-2
 description: Aprende a  calcular el factorial de un número entero positivo.
 ---
 
 
 
-
-
-# Primero de primaria
+# Aprende en casa 24 de agosto 2020 : 1 primer Grado
 
 <div class="video-responsive">
-<iframe  src="https://www.youtube.com/embed/Gj5YM9TlXN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe  src="https://youtu.be/jxHtc2NzepE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-# Segundo de primaria
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jxHtc2NzepE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# Aprende en casa 24 de agosto 2020 : 2 segundo Grado
 
+# Aprende en casa 24 de agosto 2020 : 3 tercer Grado
 
-# Tercero de primaria
+# Aprende en casa 24 de agosto 2020 : 4 cuarto Grado
 
+# Aprende en casa 24 de agosto 2020 : 5 quinto Grado
 
-
-# Cuarto de primaria
-
-
-
-# Quinto de primaria
-
-
-
-# Sexto de primaria
+# Aprende en casa 24 de agosto 2020 : 6 sexto Grado

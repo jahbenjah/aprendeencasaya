@@ -7,54 +7,34 @@ tag: quinto
 description: Aprende a  calcular el factorial de un número entero positivo.
 ---
 
-# Aprende en casa 24 de agosto 2020 : 1 primer Grado
-
-# Aprende en casa 24 de agosto 2020 : 2 segundo Grado
-
-# Aprende en casa 24 de agosto 2020 : 3 tercer Grado
-
-# Aprende en casa 24 de agosto 2020 : 4 cuarto Grado
+## Educación Socioemocional para sexto de primaria.
 
 <div class="video-responsive">
 <iframe  
-src="https://www.youtube.com/embed/jxHtc2NzepE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-</div>
-
-<div class="video-responsive">
-<iframe  
-src="https://www.youtube.com/embed/jxHtc2NzepE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+src="https://www.youtube.com/embed/q0OHp3m31mQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
 
 
-<div class="video-responsive">
-<iframe  
-src="https://www.youtube.com/embed/fxBu1w1PwEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-</div>
-
+1. El otro par 
 
 <div class="video-responsive">
 <iframe  
-src="https://www.youtube.com/embed/c6BthjZh4RE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+src="https://www.youtube.com/embed/VZNrkYe5g48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
 
+2. Las buenas acciones y las malas acciones tienen efecto 
+<div class="video-responsive">
+<iframe  
+src="https://www.youtube.com/embed/myfaB8cUth8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+
+3. Buenas Acciones, buenos resultados. 
 
 <div class="video-responsive">
 <iframe  
-src="https://www.youtube.com/embed/nUCk7_OM7hA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+src="https://www.youtube.com/embed/j3ugK6Oxf0k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 </div>
-
-
-<div class="video-responsive">
-<iframe  
-src="https://www.youtube.com/embed/AcBjeMU7IOY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-</div>
-
-# Aprende en casa 24 de agosto 2020 : 5 quinto Grado
-
-# Aprende en casa 24 de agosto 2020 : 6 sexto Grado

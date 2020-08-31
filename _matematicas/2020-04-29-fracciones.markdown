@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_math
 title:  "Fracciones"
 date:   2020-04-22 09:32:34 -0500
 categories: matematicas
@@ -30,3 +30,4 @@ $$ 1\frac{3}{9}$$
 # Multiplicación de fracciones
 
 # División de fracciones
+

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_math
 title:  "Fracciones equivalentes"
 date:   2020-04-22 09:32:34 -0500
 categories: matematicas
@@ -31,3 +31,4 @@ De esta forma podemos decir que 1/2 es equivalente a 3/6
 Encuentra fracciones equivalentes usando multiplicaciones llenando los espacios en blanco
 
 1. $$\frac{1}{4} \times \frac{ }{3} = \frac{3}{}$$
+

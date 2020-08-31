@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_math
 title:  "Factorial de un número"
 date:   2020-05-02 12:00:01 +0000
 categories: matematicas

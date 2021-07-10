@@ -1,4 +1,4 @@
 # Permitir explorar todo el contenido
 User-agent: *
 Disallow:
-Sitemap: https://aprendeencasaya.com/sitemap.xml
+Sitemap: https://aspnetcoremaster.com/aprendeencasaya/sitemap.xml

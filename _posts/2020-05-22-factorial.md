@@ -4,10 +4,10 @@ title:  "Factorial de un número"
 date:   2020-05-02 12:00:01 +0000
 categories: matematicas
 permalink: /:categories/:title:output_ext
-description: Aprende a  calcular el factorial de un número entero positivo.
+description: Aprende a calcular el factorial de un número entero positivo.
 ---
 
-El factorial de un número entero positivo **_n_** está definido como: 
+El factorial de un número entero positivo **_n_** está definido como:
 
 ```math
 n! = n*(n-1)*...*2*1

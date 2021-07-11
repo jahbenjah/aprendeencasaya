@@ -3,7 +3,7 @@ layout: post_math
 title:  "Fracciones"
 date:   2020-04-22 09:32:34 -0500
 categories: matematicas
-permalink: /:categories/:title:output_ext
+permalink: /:title:output_ext
 ---
 
 Una fracción es una parte de la unidad. Se representa por dos numeros  separados por una linea entre ellos al de la parte superior lo llamamos numerador y al de abajo denominador:

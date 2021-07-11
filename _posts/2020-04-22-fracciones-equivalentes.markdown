@@ -3,7 +3,7 @@ layout: post_math
 title:  "Fracciones equivalentes"
 date:   2020-04-22 09:32:34 -0500
 categories: matematicas
-permalink: /:categories/:title:output_ext
+permalink: /:title:output_ext
 ---
 
 Dos fracciones son equivalentes si representan la misma parte de la unidad. Esto quiere decir que dividiendo el numerador entre el denominador nos da el mismo resultado.

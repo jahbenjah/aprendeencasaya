@@ -2,10 +2,10 @@ title: aprendeencasaya
 email: benjamin@aspnetcoremaster.com
 description: >- # this means to ignore newlines until "baseurl:"
   Matematicas para todos.
-baseurl: "/aprendeencasaya" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aspnetcoremaster.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jbenjamincc
-google_analytics: UA-130293099-5
+google_analytics: UA-130293099-1
 theme: minima
 plugins:
   - jekyll-feed

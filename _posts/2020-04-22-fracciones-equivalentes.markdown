@@ -20,13 +20,13 @@ $$\frac{1}{2} = \frac{1}{2} \times 1$$
 
 > **Procedimiento*** Una forma de obtener fracciones equivalentes es multiplicar el numerador y el denominador por un mismo numero.
 
-Por ejemplo para calcular fracciones equivalentes 1/2 podemos multiplicar por 
+Por ejemplo para calcular fracciones equivalentes 1/2 podemos multiplicar por
 
 $$\frac{1}{2} = \frac{1}{2} \times \frac{3}{3} =  \frac{3}{6} $$
 
 De esta forma podemos decir que 1/2 es equivalente a 3/6
 
-# Ejericios resultos
+## Ejercicios resueltos
 
 Encuentra fracciones equivalentes usando multiplicaciones llenando los espacios en blanco
 
